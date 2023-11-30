@@ -3,7 +3,7 @@
 
 ### <div align="center">A full-time full-stack freelance developer 👨‍💻 </div>  
   
-<img align="right" alt="Working Gif" width="400" src="https://media.tenor.com/VbYjG-jloBkAAAAC/computer-working.gif">
+<img align="right" alt="Working Gif" width="300" src="https://media.tenor.com/VbYjG-jloBkAAAAC/computer-working.gif">
 
 - 🌱 I’m currently learning Spring Boot  
   
